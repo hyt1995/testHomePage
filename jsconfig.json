@@ -1,7 +1,6 @@
 {
   "compilerOptions": {
-    "paths": {
-      "dkskdNodddprefix<prefi/*x>": ["./*"]
+      "target" : "esnext",
+      "baseUrl" : "./pages"
     }
-  }
 }
